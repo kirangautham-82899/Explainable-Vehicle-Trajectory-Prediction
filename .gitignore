@@ -1,0 +1,79 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# Unity / IDE generated project files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+
+# Rider, Visual Studio, VS Code, and JetBrains
+.vs/
+.vscode/
+.idea/
+*.DotSettings.user
+
+# Unity package/build artifacts
+*.apk
+*.aab
+*.app
+*.unitypackage
+crashlytics-build.properties
+ExportedObj/
+~UnityDirMonSyncFile~*
+
+# Addressables generated data
+**/Assets/AddressableAssetsData/*/*.bin*
+**/assets/addressableassetsdata/*/*.bin*
+**/Assets/StreamingAssets/aa.meta
+**/assets/streamingassets/*/aa/*
+
+# Local version-control/workspace metadata
+.plastic/
+.collabignore
+.claude/
+
+# Generated AI training capture data
+Assets/AI_model/Input_Data.txt
+Assets/AI_model/Screenshots/*
+!Assets/AI_model/Screenshots/.gitkeep
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Logs and crash dumps
+*.log
+*.stackdump
+
+# Local environment files
+.env
+.env.*
+!.env.example
