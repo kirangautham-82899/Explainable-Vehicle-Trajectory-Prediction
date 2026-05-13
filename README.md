@@ -9,6 +9,8 @@
 [![Git LFS](https://img.shields.io/badge/Git%20LFS-Enabled-F64935?style=for-the-badge&logo=gitlfs&logoColor=white)](https://git-lfs.com/)
 [![License](https://img.shields.io/badge/License-Project%20Assets-lightgrey?style=for-the-badge)](#version-control-notes)
 
+[Project Setup](PROJECT_SETUP.md) | [Quick Start](#quick-start) | [Model Evaluation](#model-evaluation) | [Core Scripts](#core-scripts)
+
 </div>
 
 ---
@@ -93,6 +95,8 @@ tools/
 | Python Packages | `numpy`, `pillow`, `onnxruntime` |
 
 ## Quick Start
+
+For a complete installation walkthrough, troubleshooting notes, and first-run checklist, see [PROJECT_SETUP.md](PROJECT_SETUP.md).
 
 ```bash
 git lfs install
